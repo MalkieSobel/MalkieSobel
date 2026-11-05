@@ -6,10 +6,10 @@ Open to **remote** roles. Fluent in English and Hebrew.
 
 ### What I work with
 
-**Frontend:** React, TypeScript, JavaScript, Redux, HTML/CSS
-**Backend:** Node.js, Express, REST APIs, MySQL
-**Cloud & DevOps:** AWS Lambda, GCP, Docker, Jenkins, GitHub Actions, RabbitMQ
-**Also:** Python, Java, C#, C++, Sentry, Amplitude, Cypress, Selenium
+- **Frontend:** React, TypeScript, JavaScript, Redux, HTML/CSS
+- **Backend:** Node.js, Express, REST APIs, MySQL
+- **Cloud & DevOps:** AWS Lambda, GCP, Docker, Jenkins, GitHub Actions, RabbitMQ
+- **Also:** Python, Java, C#, C++, Sentry, Amplitude, Cypress, Selenium
 
 ### Projects worth a look
 
