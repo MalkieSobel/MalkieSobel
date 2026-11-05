@@ -11,11 +11,16 @@ Open to **remote** roles. Fluent in English and Hebrew.
 - **Cloud & DevOps:** AWS Lambda, GCP, Docker, Jenkins, GitHub Actions, RabbitMQ
 - **Also:** C# / .NET (WPF), Python, Java, C++, Sentry, Amplitude, Cypress, Selenium
 
-### Projects worth a look
+### ⭐ Featured: DealSmart
+
+**[DealSmart](https://github.com/MalkieSobel/dealsmart-showcase)** – an AI-powered CRM/ERP for commodity trading that I co-founded and develop. Deals pipeline, suppliers, shipments, and AI that turns WhatsApp messages and documents into deals.
+React · TypeScript · Supabase (68 tables, 229 RLS policies) · 18 Edge Functions · Gemini · 6 languages · ~62K lines
+
+### More projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ERP system – client](https://github.com/MalkieSobel/erp-system-client) | Freelance ERP for a real client: projects, stages, products, agents, contacts, documents, tasks and reports | React, JWT auth, Node.js backend on GCP Cloud Run |
+| [ERP system – client](https://github.com/MalkieSobel/erp-system-client) | First version of the ERP (before DealSmart): projects, stages, products, agents, contacts, documents, tasks and reports | React, JWT auth, Node.js backend on GCP Cloud Run |
 | [Jenkins CI/CD pipeline](https://github.com/MalkieSobel/jenkins-cicd-pipeline) | Full pipeline: install, test, build a Docker image, deploy | Jenkins, Docker, Node.js |
 | [RabbitMQ lab](https://github.com/MalkieSobel/rabbitmq-lab) | Producers and consumers for task queues, persistent messages and a dead-letter queue | RabbitMQ, Node.js, Docker Compose |
 | [REST API server](https://github.com/MalkieSobel/social-app-rest-api) | Express API with users, posts, comments, todos and auth over MySQL | Node.js, Express, MySQL |
