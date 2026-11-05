@@ -9,7 +9,7 @@ Open to **remote** roles. Fluent in English and Hebrew.
 - **Frontend:** React, TypeScript, JavaScript, Redux, HTML/CSS
 - **Backend:** Node.js, Express, REST APIs, MySQL
 - **Cloud & DevOps:** AWS Lambda, GCP, Docker, Jenkins, GitHub Actions, RabbitMQ
-- **Also:** Python, Java, C#, C++, Sentry, Amplitude, Cypress, Selenium
+- **Also:** C# / .NET (WPF), Python, Java, C++, Sentry, Amplitude, Cypress, Selenium
 
 ### Projects worth a look
 
@@ -19,6 +19,7 @@ Open to **remote** roles. Fluent in English and Hebrew.
 | [Jenkins CI/CD pipeline](https://github.com/MalkieSobel/jenkins-cicd-pipeline) | Full pipeline: install, test, build a Docker image, deploy | Jenkins, Docker, Node.js |
 | [RabbitMQ lab](https://github.com/MalkieSobel/rabbitmq-lab) | Producers and consumers for task queues, persistent messages and a dead-letter queue | RabbitMQ, Node.js, Docker Compose |
 | [REST API server](https://github.com/MalkieSobel/social-app-rest-api) | Express API with users, posts, comments, todos and auth over MySQL | Node.js, Express, MySQL |
+| [Hospital volunteer system](https://github.com/MalkieSobel/hospital-volunteer-system) | Desktop app for managing hospital volunteers and calls, with a strict layered architecture and two swappable data layers (in-memory / XML) | C#, .NET 8, WPF |
 | [Social network client](https://github.com/MalkieSobel/react-social-network) | React app with login, posts, comments, albums, photos and todos | React |
 
 Most of my day-to-day work is in private company repos, so what's here is freelance, course and side work.
